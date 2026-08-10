@@ -2,7 +2,7 @@
 
 # Algorithms and Data Structures in C++
 
-A collection of 81 self-contained C++ programs covering classic algorithms, data structures, and small console projects. Every file compiles on its own, depends only on the standard library, and ships with a `main()` that runs a worked example.
+A growing collection of self-contained C++ programs covering classic algorithms, data structures, and small console projects. Every file compiles on its own, depends only on the standard library, and ships with a `main()` that runs a worked example.
 
 Built as study material, kept public so it stays useful to anyone learning the same topics.
 
@@ -50,19 +50,19 @@ Everything else is portable standard C++.
 
 ```
 .
-├── Backtracking/         6 programs
-├── Basic/                5 programs
-├── Console/              5 programs
-├── DataStructure/        8 programs
-├── DynamicProgramming/   6 programs
-├── Game/                 2 programs
-├── Graph/               14 programs
-├── LinkedList/           5 programs
-├── Math/                 6 programs
-├── Searching/            2 programs
-├── Sorting/             10 programs
-├── String/               5 programs
-└── Tree/                 7 programs
+├── Backtracking/         maze solving, n queens, sudoku, permutations
+├── Basic/                validation, file IO, threads, random
+├── Console/              colors, mouse and keyboard input, rendering
+├── DataStructure/        stacks, queues, heaps, hash table, cache
+├── DynamicProgramming/   knapsack, subsequences, coin change
+├── Game/                 console games
+├── Graph/                traversal, shortest path, spanning tree, flow
+├── LinkedList/           single, double, multiple, CRUD programs
+├── Math/                 primes, gcd, exponentiation, base conversion
+├── Searching/            linear and binary search
+├── Sorting/              comparison and non comparison sorts
+├── String/               pattern matching, edit distance, palindromes
+└── Tree/                 BST, balanced trees, tries, range queries
 ```
 
 ## Catalog
