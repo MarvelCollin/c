@@ -26,6 +26,7 @@ Built as study material, kept public so it stays useful to anyone learning the s
   - [Game](#game)
 - [Conventions](#conventions)
 - [Usage](#usage)
+- [License](#license)
 
 ## Getting Started
 
@@ -224,5 +225,9 @@ Complexities describe the implementation in this repository, not the best known 
 ## Usage
 
 Feel free to copy-paste my code :>
+
+## License
+
+Released under the [MIT License](LICENSE).
 
 <p align="right"><a href="#readme-top">back to top</a></p>
